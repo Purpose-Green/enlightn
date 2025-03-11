@@ -78,6 +78,9 @@
             ]
         }
     },
+    "replace" : {
+        "enlightn/enlightn": "dev-master"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
