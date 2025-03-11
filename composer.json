@@ -1,6 +1,6 @@
 {
-    "name": "enlightn/enlightn",
-    "description": "Enlightn - Your performance & security consultant, an artisan command away.",
+    "name": "Purpose-Green/enlightn",
+    "description": "Fork of Enlightn",
     "type": "library",
     "keywords": [
         "laravel",
